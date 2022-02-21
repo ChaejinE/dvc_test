@@ -1,0 +1,5 @@
+outs:
+- md5: 896e0601c506fdcc87137fd8d347375f.dir
+  size: 19
+  nfiles: 2
+  path: seg
